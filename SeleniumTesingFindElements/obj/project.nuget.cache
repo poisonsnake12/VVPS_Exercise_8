@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "minirZAjK1dFY4XqivXGWW+/9C4iejvb/hli43s+ILj9FaZayVxTCEKTsA5EEXKwBMFPiW7MaifsOgAvsdLRvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\poisonsnake12\\source\\repos\\SeleniumTesingFindElements\\SeleniumTesingFindElements\\SeleniumTestingFindElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.30.0.1\\selenium.webdriver.geckodriver.0.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

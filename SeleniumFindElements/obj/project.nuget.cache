@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "NMg+i/k4J0gFVLXqN/6gD/cK3DhnxcpFFY8gypqvdwBnPP7B8vVBCS2M5XkuuRjxycv0VoLU4mQ2avQ/0fw8Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\poisonsnake12\\source\\repos\\SeleniumTesingFindElements\\SeleniumFindElements\\SeleniumFindElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\nunit\\2.5.7.10213\\nunit.2.5.7.10213.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\poisonsnake12\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "SeleniumFindElements depends on NUnit (>= 2.2.9) but NUnit 2.2.9 was not found. An approximate best match of NUnit 2.5.7.10213 was resolved.",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NUnit 2.5.7.10213' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

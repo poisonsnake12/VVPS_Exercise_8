@@ -1,0 +1,5 @@
+C:\Users\poisonsnake12\source\repos\SeleniumTesingFindElements\SeleniumTesingFindElements\obj\Debug\net6.0\SeleniumTesingFindElements.csproj.AssemblyReference.cache
+C:\Users\poisonsnake12\source\repos\SeleniumTesingFindElements\SeleniumTesingFindElements\obj\Debug\net6.0\SeleniumTesingFindElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poisonsnake12\source\repos\SeleniumTesingFindElements\SeleniumTesingFindElements\obj\Debug\net6.0\SeleniumTesingFindElements.AssemblyInfoInputs.cache
+C:\Users\poisonsnake12\source\repos\SeleniumTesingFindElements\SeleniumTesingFindElements\obj\Debug\net6.0\SeleniumTesingFindElements.AssemblyInfo.cs
+C:\Users\poisonsnake12\source\repos\SeleniumTesingFindElements\SeleniumTesingFindElements\obj\Debug\net6.0\SeleniumTesingFindElements.csproj.CoreCompileInputs.cache
